@@ -1,7 +1,11 @@
 com4j-otaclient-wrapper
 =======================
 
-This is [com4j] (https://github.com/kohsuke/com4j) generated code that can be used to interface with the HP Quality Center 11 OTAClient.dll com library.
+This is [com4j](https://github.com/kohsuke/com4j) generated code that can be used to interface with the HP Quality Center 11 OTAClient.dll com library.
+
+Download
+========
+A compiled jar file is provided for convenience [here](http://bspk.rs/foss/OTAClient.jar) (MD5: e55e28bc8c66ea268f2d8967e0968c7d).
 
 License
 =======
@@ -9,7 +13,7 @@ Since com4j uses the MIT license, I will also use the MIT license:
 
 Open Source Initiative OSI - The MIT License (MIT):Licensing 
 
-[OSI Approved License] (http://opensource.org/licenses/MIT)
+[OSI Approved License](http://opensource.org/licenses/MIT)
 
 The MIT License (MIT)
 
